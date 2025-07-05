@@ -4,6 +4,14 @@
 ## 📌 Objective
 In the age of digital music, understanding user behavior and engagement on Spotify is vital for artists, businesses, and the platform itself. This project analyzes **Spotify album, artist, and track data** to extract deep insights into listening patterns over time.
 
+## 📸 Dashboards
+
+<p align="center">
+  <img src="Capture1.PNG" alt="Albums Dashboard" width="45%" />
+  &nbsp;
+  <img src="Capture2.PNG" alt="Tracks Dashboard" width="45%" />
+</p>
+
 ---
 
 ## 📂 Data Fields Explained
